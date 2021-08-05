@@ -1,0 +1,20 @@
+package aritimetica;
+
+import java.util.Scanner;
+
+public class EstruturasSequenciais {
+
+	public static void main(String[] args) {
+			
+			
+			
+			int numero = 0;
+			System.out.println("Digite um numero");
+			sc.nextInt(numero);
+			Scanner sc = new Scanner(System.in);
+			
+			
+		
+	}
+
+}

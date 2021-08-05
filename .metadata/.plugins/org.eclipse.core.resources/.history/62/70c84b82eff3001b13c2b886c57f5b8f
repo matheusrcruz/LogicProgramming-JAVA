@@ -1,0 +1,21 @@
+package uri;
+
+import java.util.Scanner;
+
+public class Ex1002 {
+
+	public static void main(String[] args) {
+		/*
+		 * area = π . raio2.
+		 * */
+		double raio = 3.14159, area, n;
+		
+		
+		area = 
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Digite um valor");
+	
+	}
+
+}

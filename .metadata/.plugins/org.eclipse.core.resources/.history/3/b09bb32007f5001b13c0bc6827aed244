@@ -1,0 +1,23 @@
+package dio;
+
+import java.util.Scanner;
+
+public class Exercicio3 {
+
+	public static void main(String[] args) {
+		
+		int numeroEntrada, contador;
+		
+		Scanner ler = new Scanner(System.in);
+		
+		for(contador = 0; contador < 7; contador ++) {
+			
+			ler = numeroEntrada.nextInt;
+		}
+		
+		
+		
+	
+	}
+
+}

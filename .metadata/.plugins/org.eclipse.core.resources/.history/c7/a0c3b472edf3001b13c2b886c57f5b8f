@@ -1,0 +1,20 @@
+package uri;
+
+import java.util.Scanner;
+
+public class Ex1002 {
+
+	public static void main(String[] args) {
+		/*
+		 * area = π . raio2.
+		 * */
+		
+		
+		double area, raio ;
+		Scanner sc = new Scanner(System.in);
+		
+		raio =sc.nextDouble();
+		area = Math.pow(raio, 2) * Math.PI;
+	}
+
+}
