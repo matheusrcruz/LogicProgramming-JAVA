@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="app.CriarContas"/>
+    <fullyQualifiedTypeName name="model.Conta"/>
 </qualifiedTypeNameHistroy>
