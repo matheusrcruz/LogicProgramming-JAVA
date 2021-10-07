@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ArquivoTxt</name>
+	<name>TratandoArquivo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1632911793029</id>
+			<id>1632911793061</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
